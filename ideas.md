@@ -27,4 +27,4 @@ Code UI and menus,
 Find willing (or unwilling) playtesters,
 Polish, playtest, and bugfix,
 Celebrate or maybe cry depending on how it went,
-Add "secret" fish,
+Add "secret" fish
