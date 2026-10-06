@@ -14,17 +14,17 @@ Core RPG elements could be ship stats for our spaceship, like crew onboard, reso
 
 
 Necessary Steps:
-Learn Godot
-Kick out Oliver if he keeps missing TSA
-Design overarching game layout (like map and stuff)
-Decide on length of game
-Make textures/art
-Design puzzles
-Code puzzles
-Code dialogue/progression mechanics
-Design skill tree and/or some kind of level system
-Code UI and menus
-Find willing (or unwilling) playtesters
-Polish, playtest, and bugfix
-Celebrate or maybe cry depending on how it went
-Add "secret" fish
+Learn Godot,
+Kick out Oliver if he keeps missing TSA,
+Design overarching game layout (like map and stuff),
+Decide on length of game,
+Make textures/art,
+Design puzzles,
+Code puzzles,
+Code dialogue/progression mechanics,
+Design skill tree and/or some kind of level system,
+Code UI and menus,
+Find willing (or unwilling) playtesters,
+Polish, playtest, and bugfix,
+Celebrate or maybe cry depending on how it went,
+Add "secret" fish,
